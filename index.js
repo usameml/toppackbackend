@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: 'https://your-frontend-domain.vercel.app', // Replace with your actual frontend domain
+  origin: 'https://toppackfrontend.vercel.app', // Replace with your actual frontend domain
   optionsSuccessStatus: 200,
 };
 
